@@ -1,0 +1,35 @@
+.inline-block {
+  display: inline-block;
+  background-color: white;
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+}
+.header {
+  background-color: #fda4c9;
+  padding: 5px;
+}
+.left {
+  float: left;
+  width: 30%;
+  background-color: #A4FDD9;
+  height: 500px;
+}
+.right {
+  float: left;
+  width: 70%;
+  background-color: #C9FDA4;
+  height: 500px;
+}
+.container1 {
+  text-align: center;
+  padding: 15px;
+}
+.container2 {
+  background-color: #999999;
+  padding: 15px;
+}
+.https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1_Red_Toy_Cavoodle_Puppy.jpg/800px-F1_Red_Toy_Cavoodle_Puppy.jpg {
+  height: 250px;
+  background-color: #666666;
+}
